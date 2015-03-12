@@ -1,2 +1,2 @@
 # Ruby-on-Rails
-Practicas con rails
+Practicas con ruby on rails
